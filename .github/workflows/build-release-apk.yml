@@ -1,4 +1,4 @@
-name: BuildReleaseApk
+name: BuildReleaseApk2
 
 on:
   pull_request:
